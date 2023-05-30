@@ -36,3 +36,47 @@ body {
   background-color: #fff;
   color: #222222;
 }
+
+/* Main content */
+.section-container {
+  display: flex;
+}
+.left-section {
+  width: 600px;
+  background-image: url(/img/image/background-image.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+
+}
+.left-section-heading {
+}
+.buttion {
+}
+.button-image {
+}
+.button-text {
+}
+.right-section {
+  width: 600px;
+}
+.right-section-heading {
+}
+.article-1 {
+}
+.article-image {
+}
+.article-text {
+}
+.article-heading {
+}
+.article-details {
+}
+.article-date {
+}
+.article-view {
+}
+.article-2 {
+}
+.article-3 {
+}
